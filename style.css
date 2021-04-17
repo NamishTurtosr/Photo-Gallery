@@ -1,0 +1,149 @@
+#image {
+    height: 150 px;
+    width: 150 px;
+    border - radius: 50 %;
+}
+
+body {
+    text - align: center;
+    background: linear - gradient(#42f5ad 0%,
+            # 5058 b5 25 % #8c05ed 50%,
+            # 5058 b5 75 %,
+            #42f5ad 100%);
+}
+
+h2 {
+    font-family: Crimson Pro;
+    color: red;
+    font-size: 30px;
+}
+
+span {
+    font-family: Agency FB;
+    color: # 283593;
+}
+
+#hobby {
+    font - family: 'Vampiro_One', cursive;
+    color: #D84315;
+    font - size: 35 px;
+}
+
+#p {
+    font - size: 25 px;
+    color: bisque;
+    font - weight: 500;
+}
+
+.links {
+    float: left;
+    color: green;
+    padding: 5 px 9 px;
+    font - family: Agency FB;
+    font - size: 20 px;
+}
+
+.links: hover {
+    background - color: antiquewhite;
+}
+
+.links: active {
+    color: red;
+}
+
+.links: visited {
+    color: orange;
+}
+
+.menu {
+    list - style: none;
+    font - family: cursive;
+    position: fixed;
+    top: 10 px;
+    right: 30 px;
+    z - index: 10;
+    cursor: pointer;
+    background - color: white;
+}
+
+html {
+    scroll - behavior: smooth;
+}
+
+a {
+    text - decoration: none;
+}
+
+.line {
+    height: 6 px;
+    background - color: darkslateblue;
+    width: 70 px;
+    margin: 8 px auto;
+}
+
+h3 {
+    color: blue;
+    font - size: 20 px;
+    font - family: Comic Sans MS,
+        cursive;
+}
+
+.img {
+    height: 300 px;
+    width: 300 px;
+    border - radius: 20 %;
+}
+
+.names {
+    font - size: 25 px;
+    font - family: Agency FB;
+    color: red;
+}
+
+h1 {
+    font - size: 35 px;
+    color: darkorange;
+    font - family: Algerian;
+}
+
+.menu {
+    background - color: beige;
+}
+
+img {
+    transition: transform .2 s;
+}
+
+img: hover {
+    cursor: pointer;
+    transform: scale(1.1)
+}
+
+.im {
+    height: 300 px;
+    width: 300 px
+}
+
+#con {
+    font - family: Comic Sans MS, monospace;
+    font - size: 20 px;
+}
+
+#co {
+    background - color: orange;
+}
+
+.h {
+    font - family: Comic Sans MS, cursive;
+    font - size: 20 px;
+    color: blue;
+}
+
+#co1 {
+    color: black;
+    text - shadow: none;
+}
+
+#co h3 {
+    display: inline;
+}
